@@ -1,4 +1,4 @@
-# 🚀 C++ & DSA Journey by Zaid Ali
+# 🚀 C++ & DSA Journey by Me
 
 Welcome to my personal journey into the world of **C++ Programming** and **Data Structures & Algorithms (DSA)**!  
 This repository is a collection of all the concepts, problems, and solutions I practice while learning and mastering C++ and DSA.
